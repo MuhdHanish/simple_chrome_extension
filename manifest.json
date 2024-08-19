@@ -1,14 +1,8 @@
 {
     "manifest_version": 3,
-    "name": "Snap Link",
+    "name": "My Extension",
     "version": "1.0.0",
-    "description": "SnapLink is a simple and efficient Chrome extension designed to quickly shorten long URLs with just a click.",
-    "icons": {
-        "16": "static/images/icon-16.png",
-        "32": "static/images/icon-32.png",
-        "48": "static/images/icon-48.png",
-        "128": "static/images/icon-128.png"
-    },
+    "description": "A basic example extension with only required keys",
     "background": {
         "service_worker": "static/js/service-worker.js",
         "type": "module"

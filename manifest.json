@@ -1,0 +1,6 @@
+{
+    "manifest_version": 3,
+    "name": "Snap Link",
+    "version": "1.0.0",
+    "description": "SnapLink is a simple and efficient Chrome extension designed to quickly shorten long URLs with just a click."
+}
